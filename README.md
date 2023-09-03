@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samansiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samansiddiqui" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saman-aijaz-siddiqui-638539228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samansiddiqui" height="30" width="40" /></a>
 <a href="https://instagram.com/_samansiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_samansiddiqui" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/samansiddiquii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samansiddiquii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samansiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samansiddiqui" height="30" width="40" /></a>
